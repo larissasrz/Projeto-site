@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(212, 173, 249);
+    background-color: rgba(139, 104, 243, 0.547);
 }
 
 main {
@@ -17,12 +17,12 @@ main {
 
 h1 {
     font-size: 2em;
-    color: #a068d4;
+    color: #7d08ea;
 }
 
 h2 {
     font-size: 1.5em;
-    color: #a068d4;
+    color: #7d08ea;
 }
 
 img.lado {
@@ -37,5 +37,10 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: blueviolet;
+    color: #7d08ea;
+}
+
+abbr {
+    font-weight: bold;
+    text-decoration: none;
 }
